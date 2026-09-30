@@ -1,0 +1,15 @@
+torch
+torchvision
+numpy
+pandas
+opencv-python
+matplotlib
+scikit-learn
+scipy
+xgboost
+pyradiomics
+SimpleITK
+Pillow
+tqdm
+pyyaml
+grad-cam
