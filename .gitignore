@@ -1,0 +1,54 @@
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# IDE
+.vscode/
+.idea/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Dataset
+data/
+dataset/
+datasets/
+CBIS-DDSM/
+images/
+mammograms/
+
+# Medical data
+patient_data/
+raw_data/
+
+# Model weights
+*.pt
+*.pth
+*.ckpt
+*.onnx
+
+# Training outputs
+runs/
+outputs/
+results/
+checkpoints/
+wandb/
+
+# Extracted features
+features/private/
+radiomics_features/private/
+
+# Secrets
+.env
+*.key
+credentials.json
+secrets.json
+
+# OS
+.DS_Store
+Thumbs.db
